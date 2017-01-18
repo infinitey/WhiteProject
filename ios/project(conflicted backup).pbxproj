@@ -353,7 +353,11 @@
 			isa = PBXGroup;
 			children = (
 				00C302C01ABCB91800DB3ED1 /* libRCTImage.a */,
+<<<<<<< ours
+				6458E0BD1E1E2E2C007807D0 /* libRCTImage-tvOS.a */,
+=======
 				3DAD3E841DF850E9000B6D8A /* libRCTImage-tvOS.a */,
+>>>>>>> theirs
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -362,7 +366,11 @@
 			isa = PBXGroup;
 			children = (
 				00C302DC1ABCB9D200DB3ED1 /* libRCTNetwork.a */,
+<<<<<<< ours
+				6458E0C51E1E2E2C007807D0 /* libRCTNetwork-tvOS.a */,
+=======
 				3DAD3E8C1DF850E9000B6D8A /* libRCTNetwork-tvOS.a */,
+>>>>>>> theirs
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -396,7 +404,11 @@
 			isa = PBXGroup;
 			children = (
 				139105C11AF99BAD00B5F7CC /* libRCTSettings.a */,
+<<<<<<< ours
+				6458E0C91E1E2E2C007807D0 /* libRCTSettings-tvOS.a */,
+=======
 				3DAD3E901DF850E9000B6D8A /* libRCTSettings-tvOS.a */,
+>>>>>>> theirs
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -405,7 +417,11 @@
 			isa = PBXGroup;
 			children = (
 				139FDEF41B06529B00C62182 /* libRCTWebSocket.a */,
+<<<<<<< ours
+				6458E0D21E1E2E2C007807D0 /* libRCTWebSocket-tvOS.a */,
+=======
 				3DAD3E991DF850E9000B6D8A /* libRCTWebSocket-tvOS.a */,
+>>>>>>> theirs
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -428,6 +444,9 @@
 			isa = PBXGroup;
 			children = (
 				146834041AC3E56700842450 /* libReact.a */,
+<<<<<<< ours
+				6458E0D61E1E2E2C007807D0 /* libReact-tvOS.a */,
+=======
 				3DAD3EA31DF850E9000B6D8A /* libReact.a */,
 				3DAD3EA51DF850E9000B6D8A /* libyoga.a */,
 				3DAD3EA71DF850E9000B6D8A /* libyoga.a */,
@@ -435,6 +454,7 @@
 				3DAD3EAB1DF850E9000B6D8A /* libcxxreact.a */,
 				3DAD3EAD1DF850E9000B6D8A /* libjschelpers.a */,
 				3DAD3EAF1DF850E9000B6D8A /* libjschelpers.a */,
+>>>>>>> theirs
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -468,7 +488,11 @@
 			isa = PBXGroup;
 			children = (
 				78C398B91ACF4ADC00677621 /* libRCTLinking.a */,
+<<<<<<< ours
+				6458E0C11E1E2E2C007807D0 /* libRCTLinking-tvOS.a */,
+=======
 				3DAD3E881DF850E9000B6D8A /* libRCTLinking-tvOS.a */,
+>>>>>>> theirs
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -495,7 +519,11 @@
 			isa = PBXGroup;
 			children = (
 				832341B51AAA6A8300B99B32 /* libRCTText.a */,
+<<<<<<< ours
+				6458E0CD1E1E2E2C007807D0 /* libRCTText-tvOS.a */,
+=======
 				3DAD3E941DF850E9000B6D8A /* libRCTText-tvOS.a */,
+>>>>>>> theirs
 			);
 			name = Products;
 			sourceTree = "<group>";
